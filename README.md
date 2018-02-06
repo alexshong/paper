@@ -10,4 +10,6 @@ ISSN for the jornal is 2586-4599 and its original name in Korean is 2017 한국�
 
 Website: http://www.kiise.or.kr/conference/KSC/2017/
 
+### The paper can be seen at 20-727.pdf file.
+
 ![Alt text](/poster_presentation.jpg)
