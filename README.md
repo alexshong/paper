@@ -2,7 +2,7 @@
 ### This site contains my conference journal submitted to Korea Software Congress 2017 which was held in December, 2017.
 #### My paper has been accepted for poster session and I gave the presentation on 22nd of December, 2017.
 #### My paper has been awarded for Encouragement Award among Undergraduate papers.
-This page will be available until the journal is published.
+This page will be available until the journal's official link is identified.
 
 (The journal is expected to be published soon, hopefully before March)
 
